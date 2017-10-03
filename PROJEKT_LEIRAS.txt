@@ -1,0 +1,6 @@
+A projektet a csapat rangidős tagja készítette 2014 ben, evel az applikációval nyert világversenyt, webes applikáció kategóriában.
+A Google maps api-ját használta, ami változott sajnos minden hónapban és az applikácio hol ment, hol nem. 2015 ben viszont megúnta
+és azóta nem működik. A projektet 100% ban a csapat rangidős tagja írta webes nyelvek segítségével: PHP HTML CSS Javascript(jQuery).
+
+A projekt lényege az volt, hogy turisták hamarabb megtalálják a kinézett helyszínt, legyen az bár, restauránt, ATM, bank, bevásárlóközpont
+stb.
