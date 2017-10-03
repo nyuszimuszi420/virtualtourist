@@ -1,0 +1,31 @@
+@charset "utf-8";
+        .destination{
+          width: 150px;
+          height: 300px;
+          margin-left: 3%;
+          padding: 10px;
+          margin-top: 2%;
+          float: left;
+          background: #E4E4E4;
+          border-radius: 25px;
+          -moz-box-shadow: 10px 10px 5px #888;
+          -webkit-box-shadow: 10px 10px 5px #888;
+          box-shadow: 10px 10px 5px #888;
+        }
+        .destination img {
+          margin-left: 5%;
+        }
+        #hint_route {
+          margin-top: 10px;
+          margin-right: 3%;
+          margin-left: 3%;
+          padding: ;
+          background: #E4E4E4;
+          border-radius: 25px;
+          -moz-box-shadow: 10px 10px 5px #888;
+          -webkit-box-shadow: 10px 10px 5px #888;
+          box-shadow: 10px 10px 5px #888;
+        }
+        #welcome {
+            margin-top: 12px;
+        }
