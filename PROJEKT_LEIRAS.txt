@@ -1,4 +1,4 @@
-A projektet a két jelentkező közul az eggyik készítette 2014 ben, evel az applikációval nyert világversenyt, webes applikáció kategóriában.
+A projektet a két jelentkező közul az eggyik készítette 2014 ben, ezzel az applikációval nyert világversenyt, webes applikáció kategóriában.
 A Google maps api-ját használta, ami változott sajnos minden hónapban és az applikácio hol ment, hol nem. 2015 ben viszont megúnta
 és azóta nem működik. A projektet teljes mértékben webes nyelvek segítségével írta: PHP HTML CSS Javascript(jQuery).
 
